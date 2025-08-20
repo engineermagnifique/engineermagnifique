@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Magnifique+:+),;+fullstack+developer+:+),;+BSc-in-Computer-and-Software-Engineering),;+University-of-Rwanda+:+);" alt="/" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Magnifique</h1>
 <h3 align="center">Passionate Computer Engineer | Full-Stack & Mobile Developer | Software & Hardware Enthusiast</h3>
 
@@ -63,7 +67,6 @@
 
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/magnifique-niragire-461893277/)
 - 📧 Email: magnifiqueni01@gmail.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
